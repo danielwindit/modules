@@ -1,0 +1,11 @@
+{
+  "name": "motd",
+  "version": "1.0.0",
+  "author": "Windit",
+  "summary": "Installs the message of the day construction code",
+  "license": "Apache 2.0",
+  "dependencies": [
+    {"name":"puppetlabs/stdlib","version_requirement":">= 4.3.2"}
+  ]
+}
+
