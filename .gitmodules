@@ -1,4 +1,0 @@
-[submodule "modules/motd"]
-    path = modules/motd
-    url = https://github.com/danielwindit/motd.git
-
